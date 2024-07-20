@@ -1,5 +1,5 @@
 import unittest
-from library import Library
+from library.utils.library import Library
 
 lib_test = Library()
 
